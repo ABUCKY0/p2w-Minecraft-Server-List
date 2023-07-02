@@ -10,7 +10,7 @@ Pay to Win is defined as a server that does any of the following:
 
 Read more [Here.](https://www.minecraft.net/en-us/terms#commercial:~:text=Servers%20and%20Hosting.%22-,SERVERS%20AND%20HOSTING,-With%20hosting%20servers)  
 Some smaller servers may be excluded from this list, and [here's why.](https://twitter.com/TheMisterEpicYT/status/1660986744752447488)  
-You can report servers [here](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=11289976570893). 
+You can report servers to mojang for breaking their [Terms Of Service](https://www.minecraft.net/en-us/terms#commercial:~:text=Servers%20and%20Hosting.%22-,SERVERS%20AND%20HOSTING,-With%20hosting%20servers) [here](https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=11289976570893). 
 ***
 I need your help finding servers! Make an ADD Request in the Issues tab to add a server, or fork it and contribute yourself! 
 If you feel that your server was added wrongly, submit a remove request!
