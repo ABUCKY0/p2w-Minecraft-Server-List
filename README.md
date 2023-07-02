@@ -23,3 +23,4 @@ If you feel that your server was added wrongly, submit a remove request!
 | FruitySMP   | shop.fruitysmp.com | play.fruitysmp.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.fruitysmp.com) | Possible Fake Sale |
 | Blaze Gaming | store.mc-blaze.com | play.mc-blaze.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.mc-blaze.com) | Blaze is on here for selling in game competive advantages in their survival server (Breaking Mojang's TOS) |
 | ManaCube    | store.manacube.com | play.manacube.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.manacube.com) | Selling Kits and Ranks that are overly expensive and provide many gameplay advantages |
+| Netherite  | store.netherite.gg | play.netherite.gg | Not implemented yet |  ![](https://api.mcstatus.io/v2/widget/java/play.netherite.gg) | Selling Vanilla Items (Against TOS), Possible Fake Sale |
