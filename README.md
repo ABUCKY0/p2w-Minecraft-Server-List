@@ -17,3 +17,4 @@ If you feel that your server was added wrongly, submit a remove request!
 | Server Name | Server Store | Server IP | Server Icons | Server Status | Notes |
 | ----------- | ------------ | --------- | ------------ | ------------- | ----- |
 | SaverCraft  | store.savercraft.net | play.savercraft.net | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.savercraft.net) | 
+| MC Complex  | https://store.mc-complex.coms | hub.mc-complex.com | None Yet | ![](https://api.mcstatus.io/v2/widget/java/hub.mc-complex.com) | Specifically referring to the survival hub, you can buy expensive ranks that grant netherite armor (TOS BREAKAGE) |
