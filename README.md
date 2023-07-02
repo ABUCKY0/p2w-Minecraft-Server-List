@@ -20,3 +20,5 @@ If you feel that your server was added wrongly, submit a remove request!
 | ----------- | ------------ | --------- | ------------ | ------------- | ----- |
 | SaverCraft  | store.savercraft.net | play.savercraft.net | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.savercraft.net) | 
 | MC Complex  | store.mc-complex.com | hub.mc-complex.com | None Yet | ![](https://api.mcstatus.io/v2/widget/java/hub.mc-complex.com) | Specifically referring to the survival hub, you can buy expensive ranks that grant netherite armor (TOS BREAKAGE) |
+| FruitySMP   | shop.fruitysmp.com | play.fruitysmp.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.fruitysmp.com) | Possible Fake Sale |
+| Blaze Gaming | store.mc-blaze.com | play.mc-blaze.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.mc-blaze.com) | Blaze is on here for selling in game competive advantages in their survival server (Breaking Mojang's TOS) |
