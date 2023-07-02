@@ -1,6 +1,6 @@
-# A List of Predatory P2W Minecraft Servers
+# A List of Predatory/P2W Minecraft Servers
 ***
-Minecraft Servers should not be considered a Predatory Pay to Win Server if their OP Store Items or Ranks are acheveable over a reasonable amount of time without payment, or if the items are purely cosmetic. The Cosmetic tag only applies to servers that have other P2W Items. This list is not designed to help you find Pay to Win servers, but to list and showcase P2W servers that make their paying users Overpowered against non paying users, or if their practices are designed to attract children. 
+Minecraft Servers should not be considered a Predatory/Pay to Win Server if their OP Store Items or Ranks are acheveable over a reasonable amount of time without payment, or if the items are purely cosmetic. The Cosmetic tag only applies to servers that have other P2W Items. This list is not designed to help you find Pay to Win servers, but to list and showcase P2W servers that make their paying users Overpowered against non paying users, or if their practices are designed to attract children. 
 
 Pay to Win is defined as a server that does any of the following:
   - Grants a player a Competitive Gameplay advantage. This includes:
