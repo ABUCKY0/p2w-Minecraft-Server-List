@@ -29,3 +29,4 @@ If you feel that your server was added wrongly, submit a remove request!
 | NeoNetwork | store.neocubest.com | play.neocubest.com | Not Implemented Yet |  ![](https://api.mcstatus.io/v2/widget/java/play.neocubest.com) | Selling Kits with Vanilla Items, and overpriced Ranks |
 | MineBerry | store.mineberry.com | mc.mineberry.org | Not Implemented |  ![](https://api.mcstatus.io/v2/widget/java/mc.mineberry.org) | Selling Kits with Vanilla Items, Cracked (Against CUG) |
 | OneBlockMC | store.oneblockmc.com | play.oneblockmc.com / bedrock.oneblockmc.com | Not Implemented |  ![](https://api.mcstatus.io/v2/widget/java/play.oneblockmc.com) | Selling Vanilla Items which is against Mojang TOS |
+| FadeCloud | store.fadecloud.com | fadecloud.com | Not Implemented | ![](https://api.mcstatus.io/v2/widget/java/fadecloud.com) | Ranks sell OP Diamond Armor and Tools that are enchanted.
