@@ -16,17 +16,18 @@ I need your help finding servers! Make an ADD Request in the Issues tab to add a
 If you feel that your server was added wrongly, submit a remove request!
 ***
 # Server List
-| Server Name | Server Store | Server IP | Server Icons | Server Status | Notes |
-| ----------- | ------------ | --------- | ------------ | ------------- | ----- |
-| SaverCraft  | store.savercraft.net | play.savercraft.net | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.savercraft.net) | 
-| MC Complex  | store.mc-complex.com | hub.mc-complex.com | None Yet | ![](https://api.mcstatus.io/v2/widget/java/hub.mc-complex.com) | Specifically referring to the survival hub, you can buy expensive ranks that grant netherite armor (TOS BREAKAGE) |
-| FruitySMP   | shop.fruitysmp.com | play.fruitysmp.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.fruitysmp.com) | Possible Fake Sale |
-| Blaze Gaming | store.mc-blaze.com | play.mc-blaze.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.mc-blaze.com) | Blaze is on here for selling in game competive advantages in their survival server (Breaking Mojang's TOS) |
-| ManaCube    | store.manacube.com | play.manacube.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.manacube.com) | Selling Kits and Ranks that are overly expensive and provide many gameplay advantages |
-| Netherite  | store.netherite.gg | play.netherite.gg | Not implemented yet |  ![](https://api.mcstatus.io/v2/widget/java/play.netherite.gg) | Selling Vanilla Items (Against TOS), Possible Fake Sale |
-| LoverFella | store.loverfella.com | play.loverfella.com | Not Implemented Yet | ![](https://api.mcstatus.io/v2/widget/java/play.loverfella.com) | Discusting names for Ranks, and gives competive advantages to their higher roles with /back command among others |
-| PikaNetwork | store.pika-network.net | play.pika-network.net | Not Implemented Yet |  ![](https://api.mcstatus.io/v2/widget/java/play.pika-network.net) | Selling Vanilla Items and Overpriced ranks for lifesteal and survival, others weren't checked. Also allows cracked accounts, which is illegal and against Commercial Use Guidelines |
-| NeoNetwork | store.neocubest.com | play.neocubest.com | Not Implemented Yet |  ![](https://api.mcstatus.io/v2/widget/java/play.neocubest.com) | Selling Kits with Vanilla Items, and overpriced Ranks |
-| MineBerry | store.mineberry.com | mc.mineberry.org | Not Implemented |  ![](https://api.mcstatus.io/v2/widget/java/mc.mineberry.org) | Selling Kits with Vanilla Items, Cracked (Against CUG) |
-| OneBlockMC | store.oneblockmc.com | play.oneblockmc.com / bedrock.oneblockmc.com | Not Implemented |  ![](https://api.mcstatus.io/v2/widget/java/play.oneblockmc.com) | Selling Vanilla Items which is against Mojang TOS |
-| FadeCloud | store.fadecloud.com | fadecloud.com | Not Implemented | ![](https://api.mcstatus.io/v2/widget/java/fadecloud.com) | Ranks sell OP Diamond Armor and Tools that are enchanted.
+| Server Name | Server Store | Server IP | Server Status | Notes |
+| ----------- | ------------ | --------- | ------------- | ----- |
+| SaverCraft  | store.savercraft.net | play.savercraft.net | ![](https://api.mcstatus.io/v2/widget/java/play.savercraft.net) | 
+| MC Complex  | store.mc-complex.com | hub.mc-complex.com  | ![](https://api.mcstatus.io/v2/widget/java/hub.mc-complex.com) | Specifically referring to the survival hub, you can buy expensive ranks that grant netherite armor (TOS BREAKAGE) |
+| FruitySMP   | shop.fruitysmp.com | play.fruitysmp.com | ![](https://api.mcstatus.io/v2/widget/java/play.fruitysmp.com) | Possible Fake Sale |
+| Blaze Gaming | store.mc-blaze.com | play.mc-blaze.com | ![](https://api.mcstatus.io/v2/widget/java/play.mc-blaze.com) | Blaze is on here for selling in game competive advantages in their survival server (Breaking Mojang's TOS) |
+| ManaCube    | store.manacube.com | play.manacube.com | ![](https://api.mcstatus.io/v2/widget/java/play.manacube.com) | Selling Kits and Ranks that are overly expensive and provide many gameplay advantages |
+| Netherite  | store.netherite.gg | play.netherite.gg |  ![](https://api.mcstatus.io/v2/widget/java/play.netherite.gg) | Selling Vanilla Items (Against TOS), Possible Fake Sale |
+| LoverFella | store.loverfella.com | play.loverfella.com | ![](https://api.mcstatus.io/v2/widget/java/play.loverfella.com) | Discusting names for Ranks, and gives competive advantages to their higher roles with /back command among others |
+| PikaNetwork | store.pika-network.net | play.pika-network.net |  ![](https://api.mcstatus.io/v2/widget/java/play.pika-network.net) | Selling Vanilla Items and Overpriced ranks for lifesteal and survival, others weren't checked. Also allows cracked accounts, which is illegal and against Commercial Use Guidelines |
+| NeoNetwork | store.neocubest.com | play.neocubest.com |  ![](https://api.mcstatus.io/v2/widget/java/play.neocubest.com) | Selling Kits with Vanilla Items, and overpriced Ranks |
+| MineBerry | store.mineberry.com | mc.mineberry.org | ![](https://api.mcstatus.io/v2/widget/java/mc.mineberry.org) | Selling Kits with Vanilla Items, Cracked (Against CUG) |
+| OneBlockMC | store.oneblockmc.com | play.oneblockmc.com / bedrock.oneblockmc.com | ![](https://api.mcstatus.io/v2/widget/java/play.oneblockmc.com) | Selling Vanilla Items which is against Mojang TOS |
+| FadeCloud | store.fadecloud.com | fadecloud.com | ![](https://api.mcstatus.io/v2/widget/java/fadecloud.com) | Ranks sell OP Diamond Armor and Tools that are enchanted.
+| WilderCraft | store.wildercraft.net | play.wildercraft.net | ![](https://api.mcstatus.io/v2/widget/java/play.wildercraft.net) | Literally sells indvidual vanilla items in their store |
